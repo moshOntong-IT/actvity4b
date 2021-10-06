@@ -1,0 +1,29 @@
+{
+  "name": "server_side",
+  "version": "1.0.0",
+  "description": "This is group activity demo for create script with postgres dvd rental database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moshOntong-IT/actvity4b.git"
+  },
+  "keywords": [
+    "postgre_interface",
+    "npm",
+    "node",
+    "postgre_dml_script"
+  ],
+  "author": "Group_Gacote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moshOntong-IT/actvity4b/issues"
+  },
+  "homepage": "https://github.com/moshOntong-IT/actvity4b#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
