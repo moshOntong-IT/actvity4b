@@ -9,7 +9,10 @@
     "filmInsert": "node film/dbinsert_film.js",
     "filmUpdate": "node film/dbupdate_film.js",
     "filmDelete": "node film/dbdelete_film.js",
-    "rentalSelect": "node rental/dbselect_rental.js"
+    "rentalSelect": "node rental/dbselect_rental.js",
+    "rentalInsert": "node rental/dbinsert_rental.js",
+    "rentalUpdate": "node rental/dbupdate_rental.js",
+    "rentalDelete": "node rental/dbdelete_rental.js"
   },
   "repository": {
     "type": "git",
