@@ -4,7 +4,11 @@
   "description": "This is group activity demo for create script with postgres dvd rental database.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "filmSelect": "node film/dbselect_film.js",
+    "filmInsert": "node film/dbinsert_film.js",
+    "filmUpdate": "node film/dbupdate_film.js",
+    "filmDelete": "node film/dbdelete_film.js"
   },
   "repository": {
     "type": "git",
