@@ -14,7 +14,9 @@
     "rentalUpdate": "node rental/dbupdate_rental.js",
     "rentalDelete": "node rental/dbdelete_rental.js",
     "customerSelect": "node customer/dbselect_customer.js",
-    "customerInsert": "node customer/dbinsert_customer.js"
+    "customerInsert": "node customer/dbinsert_customer.js",
+    "customerUpdate": "node customer/dbupdate_customer.js",
+    "customerDelete": "node customer/dbdelete_customer.js"
   },
   "repository": {
     "type": "git",
